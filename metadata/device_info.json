@@ -1,0 +1,46 @@
+{
+  "device": {
+    "model": "SM-S911W",
+    "codename": "dm1qcsx",
+    "brand": "samsung",
+    "android_version": "16",
+    "sdk": 36,
+    "build_id": "BP2A.250605.031.A3",
+    "build_incremental": "S911WVLS7EZB6",
+    "fingerprint": "samsung/dm1qcsx/dm1q:16/BP2A.250605.031.A3/S911WVLS7EZB6:user/release-keys",
+    "hardware": "qcom",
+    "board": "kalama",
+    "soc": "SM8550"
+  },
+  "environment": {
+    "host": "PRoot-Distro",
+    "host_os": "Alpine 3.24.1",
+    "elevation": "Shizuku/RISH (shell uid=2000)",
+    "selinux_context": "u:r:shell:s0"
+  },
+  "scan_stats": {
+    "total_packages": 514,
+    "system_packages": 453,
+    "user_packages": 61,
+    "system_apks": 457,
+    "system_apps": 120,
+    "priv_apps": 222,
+    "apex_modules": 43,
+    "system_binaries": 464,
+    "vendor_binaries": 338,
+    "vendor_hal_libs": 54,
+    "vendor_firmware_files": 110,
+    "native_libs_system_lib64": 1330,
+    "native_libs_vendor_lib64": 1295,
+    "framework_jars": 98,
+    "permission_xmls": 394,
+    "getprop_entries": 1461
+  },
+  "partitions_scanned": [
+    "apex", "bin", "data", "etc", "lib", "linkerconfig",
+    "mnt", "odm", "product", "root", "run", "sbin",
+    "sdcard", "srv", "storage", "system", "system_ext",
+    "tmp", "usr", "var", "vendor"
+  ],
+  "generated": "2026-06-30"
+}
